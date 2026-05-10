@@ -1,0 +1,8 @@
+# Dependencias
+node_modules/
+
+# Variaveis de ambiente (senhas e configuracoes locais)
+.env
+
+# Logs de erro do NPM
+npm-debug.log*
